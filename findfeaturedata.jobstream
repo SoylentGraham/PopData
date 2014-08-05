@@ -1,12 +1,12 @@
 >>>>/>>>>
 enumframes
 <<<<sockcli_/conn___A<<<<
-re:enumframes format=text/plain format=text/plain payloadsize=22 payloadsize=22
+re:enumframes format=text/SoyTimes payloadsize=22 payloadsize=22
 T000434153 T000434656 
 >>>>sockcli_/>>>>
 getframe last
 <<<<sockcli_/conn___A<<<<
-re:getframe format=text/plain format=text/plain frame=T000438204 source=Features payloadsize=21277 payloadsize=21277
+re:getframe format=text/TFeatureSurfs frame=T000438204 source=Features payloadsize=21277 payloadsize=21277
 { x:197.821, y:14.7034, size:2.15488 }
 { x:214.085, y:13.2814, size:1.92038 }
 { x:30.633, y:25.9691, size:2.0532 }
@@ -560,7 +560,7 @@ re:getframe format=text/plain format=text/plain frame=T000438204 source=Features
 { x:603.56, y:453.747, size:5.20553 }
 
 <<<<sockcli_/conn___A<<<<
-re:getframe format=text/plain frame=T000999999 source=Features payloadsize=20
+re:getframe format=text frame=T000999999 source=Features payloadsize=20
 Error: no such frame
 >>>>sockcli_/>>>>
 subscribe job=newframe
@@ -569,12 +569,12 @@ subscribe job=onnewframe
 >>>>sockcli_/>>>>
 hello
 <<<<sockcli_/conn___A<<<<
-re:hello format=text/plain format=text/plain payloadsize=23 payloadsize=23
+re:hello format=text payloadsize=23 payloadsize=23
 Unhandled command hello
 >>>>sockcli_/>>>>
 getframe last
 <<<<sockcli_/conn___A<<<<
-re:getframe format=text/plain format=text/plain frame=T000546233 source=Features payloadsize=20635 payloadsize=20635
+re:getframe format=text/TFeatureSurfs frame=T000546233 source=Features payloadsize=20635 payloadsize=20635
 { x:231.323, y:24.1834, size:2.12372 }
 { x:197.978, y:23.3353, size:2.26445 }
 { x:238.29, y:15.7937, size:2.33827 }
@@ -1113,7 +1113,7 @@ re:getframe format=text/plain format=text/plain frame=T000546233 source=Features
 >>>>sockcli_/>>>>
 getframe last
 <<<<sockcli_/conn___A<<<<
-re:getframe format=text/plain format=text/plain frame=T000561751 source=Features payloadsize=20710 payloadsize=20710
+re:getframe format=text/TFeatureSurfs frame=T000561751 source=Features payloadsize=20710 payloadsize=20710
 { x:197.779, y:20.4252, size:2.3101 }
 { x:214.099, y:22.5708, size:1.9549 }
 { x:197.887, y:13.4101, size:1.95013 }
